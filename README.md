@@ -1,0 +1,1 @@
+## revisiting jQuery selectors, uncomment in source code to test different animations
